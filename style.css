@@ -21,4 +21,25 @@
     cursor: pointer;
     margin-top: 20px;
 }
- 
+.container {
+    padding-bottom: 100px;
+}
+.cat-1, .cat-2, .cat-3 {
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat-1 {
+    background-color: orange;
+}
+.cat-2 {
+    background-color: sandybrown;
+}
+.cat-3 {
+    background-color: blueviolet;
+}
+ .categories h1 {
+     color: white;
+ }
+ .categories img {
+     width: 100px;
+ }
